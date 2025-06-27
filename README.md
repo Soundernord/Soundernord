@@ -1,26 +1,5 @@
 ## Hi there i AM Onkar Chand 
 
-<!--
-**Soundernord/Soundernord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi there! 👋 I'm Ayush Malik
-🎓 About Me
-🏫 B.Tech CSE 3rd Year Student at Shri Ramdeobaba College of Engineering and Management, Nagpur
-📊 CGPA: 8.25/10
-🌍 Based in India
-💼 Connect with me on LinkedIn
-🌐 Check out my Portfolio
-
-🔍 Passionate About
-Artificial Intelligence, Web Development, and DevOps. I’m enthusiastic about building real-world impactful applications and always looking to learn new technologies and collaborate with like-minded developers.
-
-🚀 What I'm Working On
-I’m actively building projects that combine the power of machine learning, deep learning, and full-stack development to create user-centric solutions. My recent work spans AI-powered analytics, agricultural fintech, and healthcare tech.
-
-🛠️ Featured Projects
-
-📁 PatientKhata
-A medical record management app for doctors and clinics to maintain patient data efficiently using Firebase and React.
 
 🌾 KissanKhata
 A farmer-focused app for managing product stock, schemes, sales, and collections with role-based dashboards using Firebase.
