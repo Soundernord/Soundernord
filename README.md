@@ -1,9 +1,14 @@
 # Onkar here 
 
+
 🎓 **About Me**
+
 🏫 B.Tech CSE 3rd Year Student at Pimpri Chinchwad College of Engineering, Pune
+
 📊 CGPA: 7.44/10
+
 🌍 Based in India
+
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/onkar-chand-00a153294/)
 
 🔍 **Passionate About**
