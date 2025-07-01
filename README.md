@@ -6,6 +6,8 @@
 📊 CGPA: 7.44/10
 🌍 Based in India
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/onkar-chand-00a153294/)
+---
+
 
 🔍 **Passionate About**
 Generative AI, Data Analysis and Web Development.I have strong interest in leading teams and organizing events. I’m committed to learning, fostering teamwork, and driving innovation in the field. 
