@@ -1,12 +1,12 @@
 ## Onkar here 
 
 🎓 **About Me**
-🏫 B.Tech CSE 3rd Year Student at Pimpri Chinchwad College of Engineering, Pune 
+🏫 B.Tech CSE 3rd Year Student at Pimpri Chinchwad College of Engineering, Pune
 📊 CGPA: 7.44/10
 🌍 Based in India
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/onkar-chand-00a153294/)
 
-🔍 Passionate About
+🔍 **Passionate About**
 Generative AI, Data Analysis and Web Development.I have strong interest in leading teams and organizing events. I’m committed to learning, fostering teamwork, and driving innovation in the field. 
 
 🛠️ Projects Worked on 
